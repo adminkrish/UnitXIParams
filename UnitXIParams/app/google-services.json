@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831673140718",
+    "firebase_url": "https://unitxiparams-default-rtdb.firebaseio.com",
+    "project_id": "unitxiparams",
+    "storage_bucket": "unitxiparams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831673140718:android:c2a1c32af174a626413aff",
+        "android_client_info": {
+          "package_name": "com.kc.unitxiparams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831673140718-qr5auas1moehivnlv7a4on1ntfpmetuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOhH4hBQOlS34jr5_3UF3x82OXA-Y4JAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831673140718-qr5auas1moehivnlv7a4on1ntfpmetuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
